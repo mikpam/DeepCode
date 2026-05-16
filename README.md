@@ -791,5 +791,3 @@ We're continuously enhancing DeepCode with exciting new features:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=deepcode.readme&style=for-the-badge&color=00d4ff" alt="Visitors">
 
 </div>
-
----

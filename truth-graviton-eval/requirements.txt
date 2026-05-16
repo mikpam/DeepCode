@@ -1,5 +1,0 @@
-openai>=1.40.0
-datasets>=2.19.0
-tiktoken>=0.7.0
-python-dotenv>=1.0.1
-pytest>=8.0.0
